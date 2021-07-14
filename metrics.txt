@@ -1,0 +1,6 @@
+sum 1
+average 1
+maximum 1
+average 1 groupby 2
+average 1 groupby 2 groupby 3
+average 1 groupby 3 groupby 2
